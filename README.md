@@ -31,7 +31,9 @@ The design consists of:
 - Visual Studio Code
 - macOS
 
-### Architecture
+---
+
+## Architecture
 
 The overall UART system consists of a transmitter and receiver connected through a serial data line.
 
@@ -51,13 +53,8 @@ Parallel Data
      |
      v
 Received Data
+---
 
-### Then commit it
+## Author
 
-Use this commit summary:
-
-**`Update README with project documentation`**
-
-Then **Commit changes → Push origin**.
-
-One thing to check before committing: make sure the second diagram is actually saved in `docs` as **`uart_loopback.png`**. Otherwise GitHub will show a broken image.
+**Trishita Bishwas**
